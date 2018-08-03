@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+## For platformio
+.pioenvs
+.piolibdeps
+
+# Custom Files
+
+# Custom Folders
+.vscode
